@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T02:42:32.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" version="20.5.1" etag="GAuuODKK0M0_qDeSxI_Q" type="github"><diagram id="Q85jivnKABdW6lsXShzH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T03:10:20.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="_7WNXFxcmwFg7H64p4vK" version="20.5.1" type="github">
+  <diagram id="Q85jivnKABdW6lsXShzH" name="Page-1">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;strokeWidth=3;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-1" target="HXp2f_ttCLEsmyeE1eCT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;exitX=1.004;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="targetPoint" />
+            <mxPoint x="400" y="75.03448275862075" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="134" />
+              <mxPoint x="600" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-1" value="Extract gnb version from bip trace name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="119" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC00;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-2" target="HXp2f_ttCLEsmyeE1eCT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="380" as="targetPoint" />
+            <mxPoint x="401" y="379.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-2" value="Extract wireshark primary version from tshark" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#00CC00;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-3" target="HXp2f_ttCLEsmyeE1eCT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF9933;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-3" target="HXp2f_ttCLEsmyeE1eCT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-3" value="Search version in mcshark artifactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="199" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;strokeWidth=3;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-4" target="HXp2f_ttCLEsmyeE1eCT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="300.0344827586207" as="sourcePoint" />
+            <mxPoint x="278.4999999999958" y="693" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="300" />
+              <mxPoint x="513" y="693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-4" value="Search latest version of tshark in artifactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC00;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-5" target="HXp2f_ttCLEsmyeE1eCT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-5" value="Install wireshark-common and tshark in Docker container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC00;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-6" target="HXp2f_ttCLEsmyeE1eCT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-6" value="Download mcshark and install in wireshark plugins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="519" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC00;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-7" target="HXp2f_ttCLEsmyeE1eCT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-7" value="Decode bip trace file into plaint text content &lt;br&gt;(json or csv)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="599" width="279" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="693" as="targetPoint" />
+            <mxPoint x="300" y="693" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="244.5" y="679" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="HXp2f_ttCLEsmyeE1eCT-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="170" />
+              <mxPoint x="260" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-16" value="Guess a possible version according to file name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="199" width="148" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="459.9999999999999" as="targetPoint" />
+            <mxPoint x="401" y="459.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="537.9999999999999" as="targetPoint" />
+            <mxPoint x="401" y="537.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HXp2f_ttCLEsmyeE1eCT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="618.9999999999999" as="targetPoint" />
+            <mxPoint x="401" y="618.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
