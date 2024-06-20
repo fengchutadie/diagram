@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T09:21:24.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="psgQAXJsX09hau_STs7u" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T09:24:20.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="PMoyUBnUH7j62LzDX_Rz" version="24.5.5" type="github">
   <diagram name="deploy" id="_d4CPiSw4EUlV4TWDW02">
-    <mxGraphModel dx="1412" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="nXnLjLIVgFkykUAbK0dV-40" value="https://clutch-hz.dynamic.nsn-net.net/byze" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
           <mxGeometry x="80" y="313" width="80.43" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="nXnLjLIVgFkykUAbK0dV-42" value="&lt;span&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;/ephemeral/nginx/nginx1.18&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="156" width="175" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
