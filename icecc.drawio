@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T01:54:08.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="V2CygEvGkgrwZ6F8fVST" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-20T08:31:32.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="12yF18JcEfJTpsHCkEuC" version="24.5.5" type="github" pages="4">
   <diagram id="VGndVtrFumY9MF22qx5b" name="local_complier">
     <mxGraphModel dx="1826" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,16 +429,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4Ed-w0uOB3T5lw3mzvfW" name="code-flow">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="qNn-ehDOQQGZ4HNnBDHw-0" />
-        <mxCell id="qNn-ehDOQQGZ4HNnBDHw-1" parent="qNn-ehDOQQGZ4HNnBDHw-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="RS6KdPJSyl75JYULvod3" name="icecream-cluster">
-    <mxGraphModel dx="1426" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oZmwycv_Idj_SX_KKgoq-0" />
         <mxCell id="oZmwycv_Idj_SX_KKgoq-1" parent="oZmwycv_Idj_SX_KKgoq-0" />
