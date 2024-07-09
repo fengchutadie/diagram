@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T08:31:32.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="8neApKt1EBfXS6Ns3w-F" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-09T08:33:10.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ipMF7xTPnNx7uE9WTbc7" version="24.6.4" type="github" pages="3">
   <diagram name="reverie" id="s_nkpmsKXtiOrl09fuT8">
     <mxGraphModel dx="1412" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8_M_ANnmOK0Jo9UdYcHc" name="Page-3">
-    <mxGraphModel dx="974" dy="508" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="508" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,12 @@
         </mxCell>
         <mxCell id="Lbly5TNsT5gdi4kxw9Sp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lbly5TNsT5gdi4kxw9Sp-37" target="Lbly5TNsT5gdi4kxw9Sp-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNSO7fvdzI0-QEXWqJ9j-1" value="Phaser.js :&lt;span style=&quot;font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;是一个快速、免费且开源的 2D 游戏框架，用于在 HTML5 Canvas 和 WebGL 中创建游戏。&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="221" y="552" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iNSO7fvdzI0-QEXWqJ9j-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;Phaser.js :是一个快速、免费且开源的 2D 游戏框架，用于在 HTML5 Canvas 和 WebGL 中创建游戏。&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="11" y="136" width="210" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
