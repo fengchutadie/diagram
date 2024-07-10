@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T00:30:17.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="y4hKLJtMP--jXbbnYlcm" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T00:32:13.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="WaTw1LHdF1SL1mR-slT6" version="24.6.4" type="github" pages="3">
   <diagram name="reverie" id="s_nkpmsKXtiOrl09fuT8">
     <mxGraphModel dx="1412" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="VMF7hbmcmgvyn5D28PX4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VMF7hbmcmgvyn5D28PX4-2" target="VMF7hbmcmgvyn5D28PX4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VMF7hbmcmgvyn5D28PX4-17" value="get environment/step.json" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VMF7hbmcmgvyn5D28PX4-17" value="fetch environment/step.json" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="396" y="594" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMF7hbmcmgvyn5D28PX4-18" value="create movement/step.json" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
