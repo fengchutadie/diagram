@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JcN2B3zUSZ2rr4IqSIaq" name="Page-2">
-    <mxGraphModel dx="2516" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="W9dB_x1g_blKPgoSchfL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W9dB_x1g_blKPgoSchfL-12" target="W9dB_x1g_blKPgoSchfL-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W9dB_x1g_blKPgoSchfL-12" value="retrieve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W9dB_x1g_blKPgoSchfL-12" value="retrieve" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="400" y="470" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_hBS6ojJxhgFw00-XUI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9dB_x1g_blKPgoSchfL-16" target="s_hBS6ojJxhgFw00-XUI-22">
@@ -191,7 +191,7 @@
         <mxCell id="s_hBS6ojJxhgFw00-XUI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9dB_x1g_blKPgoSchfL-20" target="W9dB_x1g_blKPgoSchfL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W9dB_x1g_blKPgoSchfL-20" value="logAnalysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="W9dB_x1g_blKPgoSchfL-20" value="logAnalysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="342" y="184" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W9dB_x1g_blKPgoSchfL-30" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -227,7 +227,7 @@
         <mxCell id="W9dB_x1g_blKPgoSchfL-23" value="&quot;acid_return&quot;: &quot;Error&quot;&lt;div&gt;&amp;nbsp;&quot;SupplementContext&quot;: [&quot;Invalid Jenkins&quot;]&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="W9dB_x1g_blKPgoSchfL-32" vertex="1">
           <mxGeometry x="7" y="70" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s_hBS6ojJxhgFw00-XUI-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="s_hBS6ojJxhgFw00-XUI-4" value="" style="group;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="830" y="148" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s_hBS6ojJxhgFw00-XUI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s_hBS6ojJxhgFw00-XUI-4" source="W9dB_x1g_blKPgoSchfL-33">
