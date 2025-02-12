@@ -268,7 +268,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UUjovHe1z0s14i4bKt5--1" value="ACID fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_hBS6ojJxhgFw00-XUI-27">
+        <mxCell id="UUjovHe1z0s14i4bKt5--1" value="ACID fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="s_hBS6ojJxhgFw00-XUI-27" vertex="1" connectable="0">
           <mxGeometry x="0.4683" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -279,12 +279,17 @@
         <mxCell id="s_hBS6ojJxhgFw00-XUI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s_hBS6ojJxhgFw00-XUI-22" target="s_hBS6ojJxhgFw00-XUI-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1mWU_mu2NpnlFDehwUn9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9dB_x1g_blKPgoSchfL-33" target="W9dB_x1g_blKPgoSchfL-11">
+        <mxCell id="1mWU_mu2NpnlFDehwUn9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W9dB_x1g_blKPgoSchfL-33" target="W9dB_x1g_blKPgoSchfL-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="920" y="380" />
               <mxPoint x="233" y="380" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIvb7cYXxPGfJRQsNEgh-1" value="ACID success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1mWU_mu2NpnlFDehwUn9-3">
+          <mxGeometry x="-0.4838" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
