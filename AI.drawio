@@ -146,7 +146,7 @@
         <mxCell id="W9dB_x1g_blKPgoSchfL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W9dB_x1g_blKPgoSchfL-4" target="W9dB_x1g_blKPgoSchfL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W9dB_x1g_blKPgoSchfL-4" value="&quot;SupplementContext&quot;:&lt;span style=&quot;color: rgb(42, 161, 152); background-color: rgb(0, 43, 54); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; white-space: pre;&quot;&gt;Invalid URL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="W9dB_x1g_blKPgoSchfL-4" value="&quot;SupplementContext&quot;: Invalid&amp;nbsp; URL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="110" y="510" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9dB_x1g_blKPgoSchfL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W9dB_x1g_blKPgoSchfL-10" target="W9dB_x1g_blKPgoSchfL-20" edge="1">
