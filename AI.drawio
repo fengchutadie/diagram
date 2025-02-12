@@ -209,7 +209,7 @@
           <mxGeometry x="10.04" y="70" width="220.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W9dB_x1g_blKPgoSchfL-31" value="" style="group;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="502" y="287" width="250" height="72" as="geometry" />
+          <mxGeometry x="502" y="279" width="250" height="72" as="geometry" />
         </mxCell>
         <mxCell id="W9dB_x1g_blKPgoSchfL-27" value="&lt;div&gt;get_job_ci_poc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="W9dB_x1g_blKPgoSchfL-31" vertex="1">
           <mxGeometry width="250" height="72" as="geometry" />
