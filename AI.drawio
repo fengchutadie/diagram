@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JcN2B3zUSZ2rr4IqSIaq" name="Page-2">
-    <mxGraphModel dx="2276" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2278" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,7 +258,7 @@
         </mxCell>
         <mxCell id="UUjovHe1z0s14i4bKt5--1" value="ACID fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="s_hBS6ojJxhgFw00-XUI-27" vertex="1" connectable="0">
           <mxGeometry x="0.4683" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s_hBS6ojJxhgFw00-XUI-28" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
@@ -277,7 +277,7 @@
         </mxCell>
         <mxCell id="iIvb7cYXxPGfJRQsNEgh-1" value="ACID success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1mWU_mu2NpnlFDehwUn9-3">
           <mxGeometry x="-0.4838" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iIvb7cYXxPGfJRQsNEgh-7" value="" style="group" vertex="1" connectable="0" parent="1">
