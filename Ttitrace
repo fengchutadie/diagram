@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T00:18:59.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="YzBslob5Z3kA5Z1hSKtF" version="24.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0" pages="4">
   <diagram id="FJAcLSFheNybXaw6VZNF" name="endec">
     <mxGraphModel dx="815" dy="429" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -513,6 +513,95 @@
         </mxCell>
         <mxCell id="Kgga2jNloah7LUBaAj5F-33" value="decode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="521" width="90" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wsnAHFiP1h9vrnqRbbkW" name="ttitrace_flow">
+    <mxGraphModel dx="1143" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L9amcYCt0039ocB7qhLF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-40" target="L9amcYCt0039ocB7qhLF-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-40" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;pcap/bin&lt;/b&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;strokeWidth=2;fontSize=9;fontColor=#000000;opacity=70;size=8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="542.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-41" target="L9amcYCt0039ocB7qhLF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-41" value="Detect the build version" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="149" y="540" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-42" target="L9amcYCt0039ocB7qhLF-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-42" value="fetch decoder from WTF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="306" y="540" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-43" target="L9amcYCt0039ocB7qhLF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-43" value="call decoder to convert pcap to parquet files" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="465" y="540" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-44" target="L9amcYCt0039ocB7qhLF-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-44" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;default configuration&lt;/b&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;strokeWidth=2;fontSize=9;fontColor=#000000;opacity=70;size=8;" vertex="1" parent="1">
+          <mxGeometry x="685" y="488.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-45" target="L9amcYCt0039ocB7qhLF-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-45" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;customized configuration&lt;/b&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;strokeWidth=2;fontSize=9;fontColor=#000000;opacity=70;size=8;" vertex="1" parent="1">
+          <mxGeometry x="810" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-46" value="call even selector to filter the target events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="650" y="597.5" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-47" value="call excelCsv generator to generate excel csv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="900" y="486" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-48" value="call excelCsv generator to generate excel csv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="900" y="597.5" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-52" target="L9amcYCt0039ocB7qhLF-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-64" value="partial mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L9amcYCt0039ocB7qhLF-58">
+          <mxGeometry x="-0.2891" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="548.75" width="20" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-46" target="L9amcYCt0039ocB7qhLF-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L9amcYCt0039ocB7qhLF-52" target="L9amcYCt0039ocB7qhLF-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-66" value="full mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L9amcYCt0039ocB7qhLF-65">
+          <mxGeometry x="-0.267" y="-1" relative="1" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-67" value="ttitrace helper module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="130" y="650" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L9amcYCt0039ocB7qhLF-68" value="ttirace decoder&lt;div&gt;mode&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
